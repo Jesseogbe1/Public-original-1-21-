@@ -18,5 +18,13 @@
     <ClCompile Include="Public Original 1-12.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="studentTypelmp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="studentType.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
